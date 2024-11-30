@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Free2Move</string>
+
+    <string-array name="vehicle_types">
+        <item>Car</item>
+        <item>Bike</item>
+        <item>Scooter</item>
+    </string-array>
+
+    <!-- Add car models array -->
+    <string-array name="car_models">
+        <item>Toyota</item>
+        <item>Honda</item>
+        <item>Mitsubishi</item>
+        <item>Isuzu</item>
+    </string-array>
+
+    <!-- Add bike models array -->
+    <string-array name="bike_models">
+        <item>Honda</item>
+        <item>Yamaha</item>
+        <item>Bajaj</item>
+        <item>Suzuki</item>
+    </string-array>
+
+    <string-array name="tuktuk_models">
+        <item>Bajaj</item>
+        <item>TVS</item>
+    </string-array>
+</resources>
